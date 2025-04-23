@@ -1,4 +1,4 @@
-# tubefeedingapp
+# Tiny Tummies
 An app to support tube feeding babies
 
 # Folder Structure
