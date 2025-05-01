@@ -30,4 +30,4 @@ Agent MVP
 - Chat interface + memory
 - Task creation + natural language
 - Personalized responses
-- Core value prop without needing a calendar integration  me to start with the prompt design?)
+- Core value prop without needing a calendar integration
